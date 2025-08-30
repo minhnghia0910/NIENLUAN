@@ -1,0 +1,6 @@
+# NIENLUAN2025
++ Thực hành cơ bản về ECS
++ clone git
++ run mvn clean install
++ docker-compose build . 
+
